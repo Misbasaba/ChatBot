@@ -1,14 +1,10 @@
-# DevServe Info Virtual Internship Program - Task 1
+# ChatBot 
 
-Welcome to my repository for the first task of the DevServe Info Virtual Internship Program!
+Welcome to my repository 
 
-![AIML Internship Badge](https://img.shields.io/badge/Internship-AIML%20Internship-blue?style=plastic)
-![DevServe Info Badge](https://img.shields.io/badge/Program-DevServe%20Info-green?style=plastic)
+
 ![Chatbot Badge](https://img.shields.io/badge/Project-Chatbot-orange?style=plastic)
 
-## About the Internship Task
-
-This repository showcases my work on the first task of the DevServe Info Virtual Internship Program. As part of this task, I am developing a basic chatbot using predefined rules, if-else statements, or pattern matching techniques. The goal is to explore natural language processing (NLP) concepts and understand the flow of conversation within the chatbot's functionality.
 
 ## Chatbot Overview
 
@@ -24,7 +20,7 @@ This repository showcases my work on the first task of the DevServe Info Virtual
 
 ## Resources
 
-- [DevServe Info](https://www.devserveinfo.com/)
+
 - [AIML Chatbot](https://www.devserveinfo.com/aiml-chatbot/)
 
 ## Contributing
